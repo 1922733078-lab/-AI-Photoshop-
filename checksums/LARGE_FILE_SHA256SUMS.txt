@@ -1,0 +1,1 @@
+10a7e8b4f7b329c25ca347bd80fafac1fd2937ff1cbdde6ed36e65eeaf2f3cac  experiments/photoshop_2026/01_delete_object/delete_object_ps2026_layered.psd

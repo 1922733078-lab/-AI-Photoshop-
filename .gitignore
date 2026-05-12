@@ -1,0 +1,6 @@
+.DS_Store
+*.tmp
+*.log
+
+# Reconstructed from split parts; do not commit this >100 MB file.
+experiments/photoshop_2026/01_delete_object/delete_object_ps2026_layered.psd
