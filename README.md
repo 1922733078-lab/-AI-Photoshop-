@@ -24,6 +24,7 @@ experiments/
 
 docs/
   EXPERIMENT_PROTOCOL.md    # 完整实验操作流程
+  STEP_BY_STEP_GUIDE.md     # 每一步详细操作指南
   RESULTS.md                # 结果汇总与评价指标
   FILE_MANIFEST.md          # 文件清单
   PUBLICATION_NOTES.md      # GitHub 公开注意事项
@@ -74,6 +75,7 @@ experiments/photoshop_2026/01_delete_object/delete_object_ps2026_layered.psd
 
 完整步骤见：
 
+- [每一步详细操作指南](docs/STEP_BY_STEP_GUIDE.md)
 - [完整实验操作流程](docs/EXPERIMENT_PROTOCOL.md)
 - [实验结果与评价指标](docs/RESULTS.md)
 - [文件清单](docs/FILE_MANIFEST.md)

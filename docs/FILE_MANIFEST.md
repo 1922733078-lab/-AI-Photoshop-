@@ -1,18 +1,19 @@
 # 文件清单
 
-文件总数：113
+文件总数：115
 
 | 路径 | 大小 |
 |---|---:|
 | `.gitattributes` | 69 B |
 | `.gitignore` | 167 B |
 | `LICENSE` | 1.2 KB |
-| `README.md` | 3.8 KB |
+| `README.md` | 3.9 KB |
 | `checksums/LARGE_FILE_SHA256SUMS.txt` | 143 B |
-| `checksums/SHA256SUMS.txt` | 13.4 KB |
+| `checksums/SHA256SUMS.txt` | 14.3 KB |
 | `docs/EXPERIMENT_PROTOCOL.md` | 11.0 KB |
 | `docs/PUBLICATION_NOTES.md` | 1.1 KB |
 | `docs/RESULTS.md` | 1.8 KB |
+| `docs/STEP_BY_STEP_GUIDE.md` | 18.5 KB |
 | `docs/assets/result_overview.jpg` | 225.5 KB |
 | `docs/assets/sample_overview.jpg` | 114.1 KB |
 | `experiments/doubao/00_originals/删除杂物.jpg` | 2.9 MB |
