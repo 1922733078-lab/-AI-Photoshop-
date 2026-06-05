@@ -106,12 +106,6 @@ git push -u origin main
 git remote set-url origin https://github.com/1922733078-lab/-AI-Photoshop-.git
 ```
 
-## 公开使用说明
-
-本仓库包含多平台生成结果、Photoshop 操作截图和实验样品图。公开前建议阅读：
-
-- [PUBLICATION_NOTES.md](docs/PUBLICATION_NOTES.md)
-
 ## 许可说明
 
 - 仓库中的说明文档和脚本按 MIT License 发布。
