@@ -1,16 +1,22 @@
 # 文件清单
 
-文件总数：115
+文件总数：118
+
+（2026-08-29 由脚本重新生成，含 analysis/ 目录；此后若有新增文件以 git 记录为准）
 
 | 路径 | 大小 |
 |---|---:|
 | `.gitattributes` | 69 B |
 | `.gitignore` | 167 B |
 | `LICENSE` | 1.2 KB |
-| `README.md` | 3.9 KB |
+| `README.md` | 3.7 KB |
+| `analysis/CHANGE_RATE_RESULTS.md` | 2.1 KB |
+| `analysis/change_rate.py` | 3.8 KB |
+| `analysis/change_rate_results.json` | 1.7 KB |
 | `checksums/LARGE_FILE_SHA256SUMS.txt` | 143 B |
-| `checksums/SHA256SUMS.txt` | 14.3 KB |
-| `docs/EXPERIMENT_PROTOCOL.md` | 11.0 KB |
+| `checksums/SHA256SUMS.txt` | 14.6 KB |
+| `docs/EXPERIMENT_PROTOCOL.md` | 13.2 KB |
+| `docs/FILE_MANIFEST.md` | 8.7 KB |
 | `docs/PUBLICATION_NOTES.md` | 1.1 KB |
 | `docs/RESULTS.md` | 1.8 KB |
 | `docs/STEP_BY_STEP_GUIDE.md` | 18.5 KB |
@@ -23,7 +29,7 @@
 | `experiments/doubao/00_originals/替换背景.jpg` | 2.0 MB |
 | `experiments/doubao/00_originals/添加物品.jpg` | 841.0 KB |
 | `experiments/doubao/01_delete_object/删除杂物的生成结果.png` | 6.0 MB |
-| `experiments/doubao/01_delete_object/删除杂物的豆包模型选择和提示词输入.png` | 179.0 KB |
+| `experiments/doubao/01_delete_object/删除杂物的豆包模型选择和提示词输入.png` | 78.6 KB |
 | `experiments/doubao/02_add_cup/增加物品的生图结果.png` | 4.5 MB |
 | `experiments/doubao/03_expand_canvas/扩展背景的生图结果.png` | 6.6 MB |
 | `experiments/doubao/04_replace_background/更换背景的生图结果.png` | 4.4 MB |
@@ -117,4 +123,4 @@
 | `experiments/samples/替换背景.jpg` | 2.0 MB |
 | `experiments/samples/添加物品.jpg` | 841.0 KB |
 | `scripts/reconstruct_large_files.sh` | 793 B |
-| `scripts/verify_checksums.sh` | 357 B |
+| `scripts/verify_checksums.sh` | 531 B |
