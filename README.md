@@ -1,6 +1,6 @@
 # AI-Photoshop：Photoshop 2026 创成式填充城市视觉编辑实验
 
-本仓库公开整理了 `/Users/xuezihang/Desktop/ps创城市操作流程` 中的完整实验产出，用于记录和复现 Photoshop 2026 创成式填充在城市视觉图像编辑中的操作流程，并与千问、即梦、豆包等通用图像生成工具进行结果对照。
+本仓库公开整理了 Photoshop 2026 创成式填充城市视觉编辑实验的完整产出，用于记录和复现 Photoshop 2026 创成式填充在城市视觉图像编辑中的操作流程，并与千问、即梦、豆包等通用图像生成工具进行结果对照。
 
 ## 实验目标
 
@@ -10,7 +10,7 @@
 - 局部控制：编辑是否集中在选区或目标区域，是否减少对无关区域的影响。
 - 后期可编辑性：是否保留 PSD、生成图层、蒙版或调整图层。
 - 二次编辑稳定性：是否能在不重绘整图的情况下继续修改生成内容。
-- 交付适配性：是否便于作为城市视觉素材、产品图、广告图或课程论文材料继续使用。
+- 交付适配性：是否便于作为城市视觉素材、产品图、广告图或教学研究材料继续使用。
 
 ## 仓库内容
 
@@ -91,7 +91,7 @@ https://github.com/1922733078-lab/-AI-Photoshop-.git
 本地推送命令：
 
 ```bash
-cd /Users/xuezihang/Desktop/AI-Photoshop
+cd AI-Photoshop   # 进入仓库目录（按实际克隆位置）
 git init
 git add .
 git commit -m "Publish Photoshop generative fill city workflow experiment"
