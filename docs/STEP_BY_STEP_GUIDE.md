@@ -345,7 +345,7 @@ experiments/photoshop_2026/03_expand_canvas/02_generative_fill_dialog.png
 11. 输入提示词：
 
 ```text
-补全自然风景，保持原图风格和光线一致
+向左右扩展画面，补全自然风景，保持原图风格和光线一致（2026-09-02 依PSD生成图层名勘误，与正文/协议附录A.1一致）
 ```
 
 12. 保存提示词截图：
@@ -603,7 +603,7 @@ experiments/doubao/05_second_round/二次编辑生成图片.png
 豆包界面记录：
 
 ```text
-experiments/doubao/操作界面.png
+experiments/jimeng/首页截图（原误归档于doubao目录）.png（经勘误移回，见FILE_MANIFEST注记）
 experiments/doubao/01_delete_object/删除杂物的豆包模型选择和提示词输入.png
 ```
 
